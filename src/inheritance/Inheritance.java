@@ -28,6 +28,7 @@ class B extends A
     {
         
         System.out.println("constructor B()");
+        //welcome
         
     }
     @Override
